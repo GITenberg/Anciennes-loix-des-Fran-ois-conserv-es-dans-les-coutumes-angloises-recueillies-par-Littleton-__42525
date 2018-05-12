@@ -1,0 +1,37 @@
+_repo: Anciennes-loix-des-Fran-ois-conserv-es-dans-les-coutumes-angloises-recueillies-par-Littleton-__42525
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42525-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Littleton, Thomas, Sir
+    alias: Littelton, Thomas, Sir
+    deathdate: 1481
+    gutenberg_agent_id: '35783'
+    url: http://www.gutenberg.org/2009/agents/35783
+  - agent_name: Hoüard, David
+    alias: Houard, David
+    birthdate: 1725
+    deathdate: 1802
+    gutenberg_agent_id: '35782'
+    url: http://www.gutenberg.org/2009/agents/35782
+description: ''
+gutenberg_bookshelf:
+- FR Droit et Justice
+- British Law
+gutenberg_issued: '2013-04-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42525'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Customary law -- France'
+- !lcsh 'Customary law -- Great Britain'
+- !lcc 'KJ'
+title: Anciennes loix des François, conservées dans les coutumes angloises, recueillies
+  par Littleton, Vol. I
+url: http://www.gutenberg.org/ebooks/42525
