@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '35782'
     url: http://www.gutenberg.org/2009/agents/35782
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42525#Anciennes-loix-des-Fran-ois-conserv-es-dans-les-coutumes-angloises-recueillies-par-Littleton-_
 gutenberg_bookshelf:
 - FR Droit et Justice
 - British Law
